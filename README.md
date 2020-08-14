@@ -1,1 +1,2 @@
-# Website developed using HTML CSS and bootstrap
+# Firt-Template-Bootstrap
+Developed front-end using HTML, CSS and Bootstrap
